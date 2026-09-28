@@ -160,7 +160,7 @@ note rests on a wash of green.</p></div>
 {callout('success', 'check', 'Sent', 'Green for what went through.')}
 {callout('warning', 'triangle-alert', 'Heads up', 'Amber for what needs a look, alarm red for real trouble.')}
 <div class="el-blockquote"><blockquote dir="auto"><p>Money without borders, notes without clutter.</p></blockquote></div>
-{table(['Face', 'Role'], ['Lato 900', 'Title and the two largest headings, tracked tight'], ['Sans 400', 'Body text'], ['Sans 600', 'Labels and bold'])}
+{table(['Face', 'Role'], ['Voltage Sans 900', 'Title and the two largest headings, tracked tight'], ['Sans 400', 'Body text'], ['Sans 600', 'Labels and bold'])}
 """
 
 NOTE_RU = f"""

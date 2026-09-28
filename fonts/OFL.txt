@@ -1,3 +1,6 @@
+Voltage Sans is a modified version of Lato Black: a Latin and Cyrillic subset, renamed because
+the original carries a Reserved Font Name.
+
 Lato, Copyright (c) 2011-2015 tyPoland Lukasz Dziedzic, with Reserved Font Name "Lato".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.

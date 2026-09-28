@@ -27,8 +27,9 @@ House rules:
   literal.
 - Forest-green ink on white paper and pills for everything you press; electric lime for
   the main button, a checked task, a toggle and the open file, pale linen mist for tags
-  and the plain note. The only embedded font is Lato Black (the title and the two largest
-  headings): `fonts/*.woff2` are written into `theme.css` by `npm run fonts`.
+  and the plain note. The only embedded font is Voltage Sans Black, a renamed subset of
+  Lato Black (the title and the two largest headings): `fonts/*.woff2` are written into
+  `theme.css` by `npm run fonts`.
 - The release ships `dist/theme.css` from `npm run build`: the same file without
   comments. The build fails on any lint problem.
 

@@ -11,8 +11,8 @@ electric lime for what you act on.
 
 ## Principles
 
-- **A loud, confident voice.** Lato Black for the title and the two largest headings,
-  tightly tracked and stacked close; the platform's own sans for everything else.
+- **A loud, confident voice.** Voltage Sans Black for the title and the two largest
+  headings, tightly tracked and stacked close; the platform's own sans for everything else.
 - **Forest ink, never black.** Text, links and headings are a deep green-tinted ink; links
   keep an underline instead of a second colour.
 - **One voltage.** Electric lime fills the main button, a checked task, a toggle and the
@@ -46,9 +46,10 @@ Appearance → Themes.
 
 ## Font
 
-Lato Black (© 2011–2015 tyPoland Łukasz Dziedzic) is embedded in `theme.css` as base64 WOFF2
-under the SIL Open Font License 1.1 — see [`fonts/OFL.txt`](fonts/OFL.txt). One weight,
-Latin and Cyrillic, for the title and the two largest headings only.
+Voltage Sans is embedded in `theme.css` as base64 WOFF2 under the SIL Open Font License
+1.1 — see [`fonts/OFL.txt`](fonts/OFL.txt). It is a Latin and Cyrillic subset of Lato Black
+(© 2011–2015 tyPoland Łukasz Dziedzic), renamed because a modified copy may not use the
+original's Reserved Font Name. One weight, for the title and the two largest headings only.
 
 ## License
 
@@ -58,7 +59,7 @@ MIT — see [LICENSE](LICENSE).
 
 **По-русски.** Тема из коллекции Borozdov. Два лика: светлый «Веточка» — тёмный мох под
 напряжением лайма на белой бумаге, и тёмный «Чаща» — тот же лайм, искрящий на почти чёрной
-лесной подстилке. Лесные зелёные чернила, сверхжирные заголовки (Lato Black), пилюли для
-всего, что нажимается, и один электрический лайм для того, что вы делаете. Устанавливается
-из каталога: Настройки → Оформление → Темы → Настроить → Borozdov Voltage → Установить и
-применить.
+лесной подстилке. Лесные зелёные чернила, сверхжирные заголовки (Voltage Sans Black), пилюли
+для всего, что нажимается, и один электрический лайм для того, что вы делаете.
+Устанавливается из каталога: Настройки → Оформление → Темы → Настроить → Borozdov Voltage →
+Установить и применить.
