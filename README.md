@@ -36,10 +36,14 @@ electric lime for what you act on.
 
 ## Installation
 
-**From the community directory:** Settings → Appearance → Themes → Manage, search for
-**Borozdov Voltage**, then **Install and use**.
+**From the community directory, as a variant:** this theme ships inside **Borozdov
+Trellis**. Install Borozdov Trellis under Settings → Appearance → Themes → Manage, then
+the [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin, and
+choose **Voltage** under Style Settings → Borozdov Trellis → Variant. The variant brings
+this theme's palette, type and corners; its own layout, and its embedded font if it has
+one, come with the full theme below.
 
-**By hand:** download `manifest.json` and `theme.css` from the [latest
+**The full theme, by hand:** download `manifest.json` and `theme.css` from the [latest
 release](https://github.com/borozdov-obsidian-themes/voltage/releases/latest) into
 `<vault>/.obsidian/themes/Borozdov Voltage/`, then choose Borozdov Voltage under Settings →
 Appearance → Themes.
@@ -61,5 +65,4 @@ MIT — see [LICENSE](LICENSE).
 напряжением лайма на белой бумаге, и тёмный «Чаща» — тот же лайм, искрящий на почти чёрной
 лесной подстилке. Лесные зелёные чернила, сверхжирные заголовки (Voltage Sans Black), пилюли
 для всего, что нажимается, и один электрический лайм для того, что вы делаете.
-Устанавливается из каталога: Настройки → Оформление → Темы → Настроить → Borozdov Voltage →
-Установить и применить.
+В каталоге тема живёт вариантом Borozdov Trellis: установите Borozdov Trellis и плагин Style Settings, затем выберите Voltage в Style Settings → Borozdov Trellis → Variant. Целиком, со своей вёрсткой, тема ставится вручную из последнего релиза репозитория.
